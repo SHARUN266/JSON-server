@@ -1,0 +1,25 @@
+{
+  "name": "json-server",
+  "version": "1.0.0",
+  "description": "",
+  "main": "JSONserver.js",
+  "scripts": {
+    "start":"node server.js ",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/SHARUN266/JSON-server.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/SHARUN266/JSON-server/issues"
+  },
+  "homepage": "https://github.com/SHARUN266/JSON-server#readme",
+  "dependencies": {
+    "dotenv": "^16.0.1",
+    "json-server": "^0.17.0"
+  }
+}
